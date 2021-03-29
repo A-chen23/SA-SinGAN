@@ -35,6 +35,7 @@ Strong Animation          |  Medium Animation          |  Weak Animation
 ### wild_bush
 Strong Animation          |  Medium Animation          |  Weak Animation
 :-------------------------:|:-------------------------:|:-------------------------:
+![Uploading start_scale=0_alpha=0.1_beta=0.8.gif…]()
 
 
 
