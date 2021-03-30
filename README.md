@@ -23,37 +23,28 @@ Strong Animation          |  Medium Animation          |  Weak Animation
 ## ConSinGAN模型生成结果展示：
 
 ### tree
+
 Strong Animation          |  Medium Animation          |  Weak Animation
 :-------------------------:|:-------------------------:|:-------------------------:
+![tree_strong](https://user-images.githubusercontent.com/68259434/112920664-fe458900-913b-11eb-8725-70f9e0461903.gif)![tree_strong](https://user-images.githubusercontent.com/68259434/112920671-01407980-913c-11eb-8c64-6a590e0a00d5.gif) |  ![tree_medium](https://user-images.githubusercontent.com/68259434/112920706-10bfc280-913c-11eb-8c07-1fd66f84e48d.gif)![tree_medium](https://user-images.githubusercontent.com/68259434/112920713-16b5a380-913c-11eb-8e4b-a53e00b741c3.gif) |  ![tree_weak](https://user-images.githubusercontent.com/68259434/112920725-1f0dde80-913c-11eb-9534-17c984e92871.gif)![tree_weak](https://user-images.githubusercontent.com/68259434/112920865-62684d00-913c-11eb-9f56-ae29dbdaf15b.gif)
 
 
 
 ### lightning
+
 Strong Animation          |  Medium Animation          |  Weak Animation
 :-------------------------:|:-------------------------:|:-------------------------:
+![lightning_strong](https://user-images.githubusercontent.com/68259434/112920784-3a78e980-913c-11eb-9913-6f422d224483.gif)![lightning_strong](https://user-images.githubusercontent.com/68259434/112920796-406eca80-913c-11eb-8aa0-21a21c7f489e.gif) |  ![lightning_medium](https://user-images.githubusercontent.com/68259434/112920803-45337e80-913c-11eb-8086-096dd62cc767.gif)![lightning_medium](https://user-images.githubusercontent.com/68259434/112920822-4ebce680-913c-11eb-9a73-9f8d4f014e52.gif) |  ![lightning_weak](https://user-images.githubusercontent.com/68259434/112920858-5ed4c600-913c-11eb-969d-9d6289c23d9f.gif)!![lightning_weak](https://user-images.githubusercontent.com/68259434/112921157-defb2b80-913c-11eb-919b-24054b0251db.gif)
+
+
+
+
 
 ### wild_bush
+
 Strong Animation          |  Medium Animation          |  Weak Animation
 :-------------------------:|:-------------------------:|:-------------------------:
-![Uploading start_scale=0_alpha=0.1_beta=0.8.gif…]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![wild_bush_strong](https://user-images.githubusercontent.com/68259434/112920519-b45ca300-913b-11eb-8978-9ebafa336f76.gif)![wild_bush_strong](https://user-images.githubusercontent.com/68259434/112920534-bc1c4780-913b-11eb-939f-39b12da5632e.gif) |  ![wild_bush_medium](https://user-images.githubusercontent.com/68259434/112920553-c76f7300-913b-11eb-93de-c20c5c84b558.gif)![wild_bush_medium](https://user-images.githubusercontent.com/68259434/112920564-cb9b9080-913b-11eb-9bf0-07c68d796614.gif) |  ![wild_bush_weak](https://user-images.githubusercontent.com/68259434/112920576-d22a0800-913b-11eb-91e0-6cd0ddeae5c3.gif)![wild_bush_weak](https://user-images.githubusercontent.com/68259434/112920582-d5bd8f00-913b-11eb-88b3-91ad1ddee142.gif)
 
 
 
@@ -61,11 +52,31 @@ Strong Animation          |  Medium Animation          |  Weak Animation
 
 
 ## SA-SinGAN模型生成结果展示
+### tree
+
 Strong Animation          |  Medium Animation          |  Weak Animation
 :-------------------------:|:-------------------------:|:-------------------------:
 ![tree_Strong Animation](https://user-images.githubusercontent.com/68259434/112776425-341e3b00-9072-11eb-82f5-8f8655f08086.gif) ![tree_Strong Animation](https://user-images.githubusercontent.com/68259434/112776423-341e3b00-9072-11eb-9844-430366155ad1.gif) ![tree_Strong Animation](https://user-images.githubusercontent.com/68259434/112776424-341e3b00-9072-11eb-8652-6335dac910ef.gif) ![tree_Strong Animation](https://user-images.githubusercontent.com/68259434/112776422-341e3b00-9072-11eb-93b1-3e151b5f0a77.gif) |  ![tree_Medium Animation](https://user-images.githubusercontent.com/68259434/112777873-d0960c80-9075-11eb-952e-b67632f612d9.gif) ![tree_Medium Animation](https://user-images.githubusercontent.com/68259434/112777924-ec99ae00-9075-11eb-82a8-f028492c8504.gif) ![tree_Medium Animation](https://user-images.githubusercontent.com/68259434/112777950-fa4f3380-9075-11eb-9e18-8fccde5d978b.gif) ![tree_Medium Animation](https://user-images.githubusercontent.com/68259434/112777973-0e933080-9076-11eb-91fa-3bdb1f0df8fa.gif) |  ![tree_Weak Animation](https://user-images.githubusercontent.com/68259434/112778004-236fc400-9076-11eb-95ed-2c919b311f75.gif) ![tree_Weak Animation](https://user-images.githubusercontent.com/68259434/112778022-2c609580-9076-11eb-9b61-eccc23363024.gif) ![tree_Weak Animation](https://user-images.githubusercontent.com/68259434/112778027-31254980-9076-11eb-8c70-2a7631251e41.gif) ![tree_Weak Animation](https://user-images.githubusercontent.com/68259434/112778045-3e423880-9076-11eb-8ca6-41d23b9baedd.gif)
 
-#
+### lightning
+
+Strong Animation          |  Medium Animation          |  Weak Animation
+:-------------------------:|:-------------------------:|:-------------------------:
+![lightning_strong](https://user-images.githubusercontent.com/68259434/112919554-eff66d80-9139-11eb-8147-c2e2d4a79b9e.gif)![lightning_strong](https://user-images.githubusercontent.com/68259434/112919662-1a482b00-913a-11eb-809d-f410309667d0.gif) |  ![lightning_medium](https://user-images.githubusercontent.com/68259434/112919726-3ba91700-913a-11eb-8186-b49c0acaf4a1.gif)![lightning_medium](https://user-images.githubusercontent.com/68259434/112919792-5a0f1280-913a-11eb-9c2c-c41439dc363b.gif) |  ![lightning_weak](https://user-images.githubusercontent.com/68259434/112919910-86c32a00-913a-11eb-94c8-5f416a2cd9e2.gif)![lightning_weak](https://user-images.githubusercontent.com/68259434/112919938-92aeec00-913a-11eb-8803-d48a0ccda228.gif)
+
+
+### wild_bush
+
+Strong Animation          |  Medium Animation          |  Weak Animation
+:-------------------------:|:-------------------------:|:-------------------------:
+![wild_bush_strong](https://user-images.githubusercontent.com/68259434/112920095-dbff3b80-913a-11eb-8b65-d8f73dfd2773.gif)![wild_bush_strong](https://user-images.githubusercontent.com/68259434/112920204-14067e80-913b-11eb-9495-b268dfccc6fc.gif) |  ![wild_bush_medium](https://user-images.githubusercontent.com/68259434/112920237-2385c780-913b-11eb-8727-4d9020dad8b2.gif)![wild_bush_medium](https://user-images.githubusercontent.com/68259434/112920254-2a143f00-913b-11eb-8049-d9839aba5dd3.gif) |  ![wild_bush_weak](https://user-images.githubusercontent.com/68259434/112920272-33051080-913b-11eb-844e-7e04a4667e1f.gif)![wild_bush_weak](https://user-images.githubusercontent.com/68259434/112920283-36000100-913b-11eb-9660-0f785e9b1f52.gif)
+
+
+
+
+
+
+
 
 
 
