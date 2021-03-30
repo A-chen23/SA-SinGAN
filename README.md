@@ -26,7 +26,7 @@ Strong Animation          |  Medium Animation          |  Weak Animation
 
 Strong Animation          |  Medium Animation          |  Weak Animation
 :-------------------------:|:-------------------------:|:-------------------------:
-![tree_strong](https://user-images.githubusercontent.com/68259434/112920664-fe458900-913b-11eb-8725-70f9e0461903.gif)![tree_strong](https://user-images.githubusercontent.com/68259434/112920671-01407980-913c-11eb-8c64-6a590e0a00d5.gif) |  ![tree_medium](https://user-images.githubusercontent.com/68259434/112920706-10bfc280-913c-11eb-8c07-1fd66f84e48d.gif)![tree_medium](https://user-images.githubusercontent.com/68259434/112920713-16b5a380-913c-11eb-8e4b-a53e00b741c3.gif) |  ![tree_weak](https://user-images.githubusercontent.com/68259434/112920725-1f0dde80-913c-11eb-9534-17c984e92871.gif)![tree_weak](https://user-images.githubusercontent.com/68259434/112920865-62684d00-913c-11eb-9f56-ae29dbdaf15b.gif)
+![tree_strong](https://user-images.githubusercontent.com/68259434/112920664-fe458900-913b-11eb-8725-70f9e0461903.gif)![tree_strong](https://user-images.githubusercontent.com/68259434/112920671-01407980-913c-11eb-8c64-6a590e0a00d5.gif) |  ![tree_medium](https://user-images.githubusercontent.com/68259434/112920706-10bfc280-913c-11eb-8c07-1fd66f84e48d.gif)![tree_medium](https://user-images.githubusercontent.com/68259434/112920713-16b5a380-913c-11eb-8e4b-a53e00b741c3.gif) |  ![tree_weak](https://user-images.githubusercontent.com/68259434/112920725-1f0dde80-913c-11eb-9534-17c984e92871.gif)![tree_weak](https://user-images.githubusercontent.com/68259434/112921385-444f1c80-913d-11eb-884c-ead7ae8964f7.gif)
 
 
 
