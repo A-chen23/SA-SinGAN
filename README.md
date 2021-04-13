@@ -1,4 +1,3 @@
-# Experimental results
 # SAP-SinGAN Model and SinGAN, ConSinGAN Model Generated Dynamic Image Comparative Logistics
 ## SinGAN model generation results：
 ### tree
