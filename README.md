@@ -1,4 +1,4 @@
-# SAP-SinGAN Model and SinGAN, ConSinGAN Model Generated Dynamic Image Comparative Logistics
+# Multi-task applications Model and SinGAN, ConSinGAN Model Generated Dynamic Image Comparative Logistics
 ## SinGAN model generation results：
 ### tree
 
@@ -50,7 +50,7 @@ Strong Animation          |  Medium Animation          |  Weak Animation
 
 
 
-## SAP-SinGAN model generation results:
+## Multi-task application model generation results:
 ### tree
 
 Strong Animation          |  Medium Animation          |  Weak Animation
